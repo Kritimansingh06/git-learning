@@ -16,5 +16,5 @@ console.log(a+b);
 
 for(let i=1;i<10;i++)
 {
-    cosnole.log("hello world\n");
+    console.log("hello world\n");
 }
