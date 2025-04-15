@@ -8,3 +8,8 @@ const obj = {
     city : "buxar",
     pin : 36758
 };
+
+const a = 10;
+const b = 20;
+
+console.log(a+b);
