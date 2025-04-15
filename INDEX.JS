@@ -4,17 +4,6 @@ const account = 123;
 
 const balance = 2999;
 
-const obj = {
-    city : "buxar",
-    pin : 36758
-};
+const payemnt = "paymet added";
 
-const a = 10;
-const b = 20;
-
-console.log(a+b);
-
-for(let i=1;i<10;i++)
-{
-    console.log("hello world\n");
-}
+console.log("payment button added");
