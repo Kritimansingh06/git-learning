@@ -13,3 +13,8 @@ const a = 10;
 const b = 20;
 
 console.log(a+b);
+
+for(let i=1;i<10;i++)
+{
+    cosnole.log("hello world\n");
+}
